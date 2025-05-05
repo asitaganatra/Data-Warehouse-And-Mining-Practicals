@@ -1,6 +1,7 @@
 Data Warehouse & Mining Practicals
 
 This repository contains implementations of fundamental Data Mining algorithms and Data Warehouse ETL processes, created as part of academic coursework or self-learning.
+
 📂 Contents
 
 Data Mining Algorithms
